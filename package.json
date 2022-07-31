@@ -1,0 +1,31 @@
+{
+  "name": "learningjsts",
+  "version": "1.0.0",
+  "description": "learning JS TS React Mobx\r and other tools\r I keep adding things that I learn.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web8appdev/learningJSTS.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "react",
+    "learn"
+  ],
+  "author": "Denis Larin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web8appdev/learningJSTS/issues"
+  },
+  "homepage": "https://github.com/web8appdev/learningJSTS#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "eslint-plugin-react": "^7.30.1"
+  }
+}
